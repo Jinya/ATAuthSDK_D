@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "ATAuthSDK_D"
-  spec.version      = "1.0.0"
+  spec.version      = "2.13.10"
   spec.summary      = "A short description of ATAuthSDK_D."
   spec.description  = <<-DESC
                         A longer description of ATAuthSDK_D in Markdown format.
