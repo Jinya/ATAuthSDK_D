@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://example.com"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "Your Name" => "your_email@example.com" }
-  spec.platform     = :ios, "15.0"
+  spec.platform     = :ios, "10.0"
   spec.source       = { :path => "." }
   spec.source_files = "ATAuthSDK_D.framework/Headers/*.{h}"
   spec.public_header_files = "ATAuthSDK_D.framework/Headers/*.h"
